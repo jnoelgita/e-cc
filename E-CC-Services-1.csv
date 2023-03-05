@@ -1,0 +1,81 @@
+id,Office,Frontline Service
+osds01,OSDS Proper,Receives/Routes of Incoming and Outgoing Communitaions to Different Offices/Divisions/Sections
+asds02,Office of the ASDS,Recommendation for Approval and Disapproval of Documents
+asds03,Office of the ASDS,"Recommendation for Approval and Disapproval of SIP, AIP, Research and Innovation and Special Project"
+legal04,Legal Services,Correction of Entries in the School Records
+legal05,Legal Services,Filing of Complaint - Not Under D.O. 49 S.2006
+legal06,Legal Services,Filing of Complaint - Under D.O. 49 S.2006
+ict07,ICT Services,Conduct of Preventive Maintenance 
+ict08,ICT Services,Information Dissemination thru Message Cast
+ict09,ICT Services,Provision of Technical Assistance
+ict010,ICT Services,User Account Management 
+ict011,ICT Services,Website Administration
+general012,General Services,Issuance of Trip Ticket for the Use of Service Vehicle
+general013,General Services,Preparation of Local Authority to Travel
+personnel014,Personnel Section,"Processing of Publication, Authority to Fill and Appointment Papers"
+personnel015,Personnel Section,Issuance of Service Record and Other Certifications
+personnel016,Personnel Section,Processing of Payment of Supplemental Payroll
+personnel017,Personnel Section,Application for Leave
+personnel018,Personnel Section,Processing of Travel Abroad
+personnel019,Personnel Section,Processing of Special Order
+personnel020,Personnel Section,Processing of Service Credit and Compensatory Time-Off
+personnel021,Personnel Section,Monetization of Leave Credits
+personnel022,Personnel Section,Processing of Retirement and Resignation
+personnel023,Personnel Section,Processing-of-Terminal-Leave-Benefits
+personnel024,Personnel Section,Processing of Teachers_ Request for Transfer within the Schools Division and from Other Schools Division
+personnel025,Personnel Section,Processing-of-Teachers-Request-for-Transfer-to-Other-Schools-Division
+personnel026,Personnel Section,Processing of Registry of Qualified Applicants
+personnel027,Personnel Section,Application-for-ERF-and-Reclass
+personnel028,Personnel Section,Processing of Loan Application
+personnel029,Personnel Section,Processing of Updating of Records of Employees
+personnel030,Personnel Section,"Processing of Form 48, Form 7"
+personnel031,Personnel Section,Processing of Step Increment
+personnel032,Personnel Section,Processing of Letter or Indorsement on Queries and Requests
+personnel033,Personnel Section,Processing of Contract of Service
+personnel034,Personnel Section,Processing of SALN and PDS
+personnel035,Personnel Section,Open Ranking
+personnel036,Personnel Section,Processing-of-Payment Claims
+records037,Records Section,Issuance of Requested Documents (Non-CTC)
+records038,Records Section,Issuance of Requested Documents (CTC and Photocopy of Documents)
+records039,Records Section,"Certification, Authentication, Verification (CAV)"
+records040,Records Section,Receving and Releasing of Incoming and Outgoing Communications
+property041,Property and Supply Section,"Acceptance and Distribution of Textbooks, Supplies and Equipment"
+property042,Property and Supply Section,Request for Issuance of Certificate Final Acceptance for delivered Learning Materials (Textbooks and/or Equipment) to the Supplier contracted by DepEd Central Office
+cash043,Cash,Issuance of Official Receipt
+cash044,Cash,Releasing.Disbursing of Checks and ADA
+cash045,Cash,cash section 3 Petty Cash Fund Disbursement
+accounting046,Accounting,Application for Provident Fund Loan
+accounting047,Accounting,"Request for Certificate of Contribution to PhilHealth, Pag-ibig, and GSIS."
+accounting048,Accounting,Granting of Fund Transfer of MOOE Allocation to Schools
+accounting049,Accounting,"Reimbursement of Communication, Travel and Other Expenses"
+accounting050,Accounting,Processing of Payments to Suppliers and Other Operational Expenses of the Division Office
+accounting051,Accounting,Request for Application or Renewal of Bond
+budget052,Budget,Certification of Availability and Non-Availability of Allotment or Savings
+budget053,Budget,Downloading of Sub-AROs received from Regional or Central Office to Implementing Units
+budget054,Budget,"Funding Request for Salaries, Terminal Leave Benefits, Monetization and Other Benefits"
+budget055,Budget,Posting or Updating of Disbursement
+budget056,Budget,Processing of BUR
+budget057,Budget,Processing of ORS
+cid058,CID,Access-to-Learning-Resources-NEW
+cid059,CID,Alternative Learning System (ALS) Enrollment
+cid060,CID,Borrowing-of-Learning-Resources-NEW
+cid061,CID,Program Work Flow of Submission of Contextualized Learning Resources
+sgod062,SGOD Chief ES,"Review, Received Documents/Proposal for Dissemination and Appropriate Action"
+drrm063,DRRM,School Monitoring of Disaster Risk Reduction and Management
+ef064,EF,Implementation of School Minor Repair and Maintenance
+es065,ES,Processing of Clients Documents
+hrd066,HRD,Provision on Technical Assistance
+planning067,Planning Section,Processing of Request for Approval of Enrollment of Learner in the Learner Information System
+planning068,Planning Section,Evaluation of Authority to Fill Request
+planning069,Planning Section,Usage and Maintenance of the Learner Information System (LIS) and Basic Education Information System (BEIS)
+research070,Research,Research Management in reviewing Basic Education Research Fund and Non - Basic Education Research Fund Proposals to guide proponent in coming up with reliable outputs
+research071,Research,Process and Evaluation of Completed Research Output
+shn072,SHN,Conducting providing medical and or dental special services
+shn073,SHN,Implementation of health and nutrition services
+shn074,SHN,Monitoring and evaluation of school based feeding programs (sbfp)
+shn075,SHN,Monitoring of health and or nutrition programs and or activities and or compliance to safety protocols in the deped facilities
+smm&e076,SMM&E,Processing of Private School Application and Other Transactions
+smn077,SMN,Crafting of memorandum of agreement - memorandum of understanding
+smn078,SMN,Providing technical assistance
+smn079,SMN,Sustaining partnership
+youth080,Youth Formation,Implementation of Mandated Student Government Programs in Public Elementary and Secondary Schools
